@@ -1,0 +1,96 @@
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Administrator\Desktop\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\装机备份\温湿度传感器\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\bin\Debug\ZedGraph.dll
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\版本6\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\版本7\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\bin\Debug\SerialCommunicate.exe.config
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\版本8\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\bin\Debug\SerialCommunicate.exe.config
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\温湿度传感器\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\bin\Debug\SerialCommunicate.exe.config
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\版本9\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\bin\Debug\SerialCommunicate.exe.config
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\bin\Debug\System.Data.SQLite.dll
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\bin\Debug\SerialCommunicate.exe.config
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\版本11\SerialCommunicate\bin\Debug\System.Data.SQLite.dll

@@ -1,0 +1,4 @@
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\bin\x86\Release\SerialCommunicate.exe.config
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\x86\Release\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\x86\Release\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\版本10\SerialCommunicate\obj\x86\Release\SerialCommunicate.csproj.GenerateResource.Cache
