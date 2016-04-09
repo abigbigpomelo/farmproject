@@ -87,3 +87,16 @@ C:\Users\Neil\Desktop\版本12\SerialCommunicate\obj\Release\SerialCommunicate.c
 C:\Users\Neil\Desktop\版本12\SerialCommunicate\obj\Release\SerialCommunicate.Form1.resources
 C:\Users\Neil\Desktop\版本12\SerialCommunicate\obj\Release\SerialCommunicate.Properties.Resources.resources
 C:\Users\Neil\Desktop\版本12\SerialCommunicate\obj\Release\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\bin\Release\SerialCommunicate.exe.config
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.exe
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\bin\Release\SerialCommunicate.exe
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\bin\Release\SerialCommunicate.pdb
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\bin\Release\System.Data.SQLite.dll
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.Form1.resources
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.Properties.Resources.resources
+C:\Users\Neil\Desktop\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.csproj.GenerateResource.Cache
+C:\farmproject\SerialCommunicate\bin\Release\SerialCommunicate.exe.config
+C:\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.exe
+C:\farmproject\SerialCommunicate\obj\Release\SerialCommunicate.pdb
